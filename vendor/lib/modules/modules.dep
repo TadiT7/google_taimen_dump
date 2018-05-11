@@ -1,0 +1,5 @@
+/vendor/lib/modules/lge_battery.ko:
+/vendor/lib/modules/sw49408.ko: /vendor/lib/modules/touch_core_base.ko
+/vendor/lib/modules/touch_core_base.ko:
+/vendor/lib/modules/wlan.ko:
+/vendor/lib/modules/ftm4.ko:

@@ -1,0 +1,8 @@
+
+8pinyin_gesture_bigram_model"pinyin_gesture_bigram
+P,zh_t_i0_shuangpin_abc_android_token_id_table"token_id_table_shuangpin_abc
+T.zh_t_i0_shuangpin_flypy_android_token_id_table"token_id_table_shuangpin_flypy
+V/zh_t_i0_shuangpin_jiajia_android_token_id_table"token_id_table_shuangpin_jiajia
+N+zh_t_i0_shuangpin_ms_android_token_id_table"token_id_table_shuangpin_ms
+X0zh_t_i0_shuangpin_ziguang_android_token_id_table" token_id_table_shuangpin_ziguang
+X0zh_t_i0_shuangpin_ziranma_android_token_id_table" token_id_table_shuangpin_ziranmalibpinyin_data_bundle.so

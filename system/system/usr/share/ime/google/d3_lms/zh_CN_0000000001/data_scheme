@@ -1,0 +1,37 @@
+
+O/zh_t_i0_pinyin_android_english_token_dictionary"pinyin_english_token_v_2
+?'zh_t_i0_pinyin_android_token_dictionary"pinyin_token_v_2
+M.zh_t_i0_pinyin_android_digits_token_dictionary"pinyin_digits_token_v_2
+Y3zh_t_i0_pinyin_android_initial_expansion_dictionary"pinyin_initial_token_expansion
+f@zh_t_i0_pinyin_android_english_reconversion_expansion_dictionary"english_reconversion_expansion
+]8zh_t_i0_pinyin_android_reconversion_expansion_dictionary"pinyin_reconversion_expansion
+d?zh_t_i0_pinyin_android_digits_reconversion_expansion_dictionary"digits_reconversion_expansion
+rCzh_t_i0_pinyin_android_english_reverse_initial_expansion_dictionary"'english_reverse_initial_token_expansion
+i;zh_t_i0_pinyin_android_reverse_initial_expansion_dictionary"&pinyin_reverse_initial_token_expansion
+pBzh_t_i0_pinyin_android_digits_reverse_initial_expansion_dictionary"&digits_reverse_initial_token_expansion
+_9zh_t_i0_pinyin_android_default_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_default
+Y6zh_t_i0_pinyin_android_z_zh_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_z_zh
+Y6zh_t_i0_pinyin_android_s_sh_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_s_sh
+Y6zh_t_i0_pinyin_android_c_ch_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_c_ch
+]8zh_t_i0_pinyin_android_an_ang_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_an_ang
+]8zh_t_i0_pinyin_android_en_eng_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_en_eng
+]8zh_t_i0_pinyin_android_in_ing_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_in_ing
+W5zh_t_i0_pinyin_android_l_n_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_l_n
+W5zh_t_i0_pinyin_android_f_h_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_f_h
+W5zh_t_i0_pinyin_android_r_l_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_r_l
+W5zh_t_i0_pinyin_android_k_g_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_k_g
+a:zh_t_i0_pinyin_android_ian_iang_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_ian_iang
+a:zh_t_i0_pinyin_android_uan_uang_fuzzy_expansion_dictionary"pinyin_fuzzy_expansion_uan_uang
+8#zh_t_i0_pinyin_android_bigram_model"pinyin_bigram
+H(zh_t_i0_pinyin_android_system_dictionary"pinyin_system_dictionary
+X0zh_t_i0_pinyin_android_system_english_dictionary" pinyin_system_english_dictionary
+V/zh_t_i0_pinyin_android_system_digits_dictionary"pinyin_system_digits_dictionary
+T.zh_t_i0_pinyin_android_system_emoji_dictionary"pinyin_system_emoji_dictionary
+J.zh_t_i0_shuangpin_abc_android_token_dictionary"tokens_shuangpin_abc
+N0zh_t_i0_shuangpin_flypy_android_token_dictionary"tokens_shuangpin_flypy
+P1zh_t_i0_shuangpin_jiajia_android_token_dictionary"tokens_shuangpin_jiajia
+H-zh_t_i0_shuangpin_ms_android_token_dictionary"tokens_shuangpin_ms
+R2zh_t_i0_shuangpin_ziguang_android_token_dictionary"tokens_shuangpin_ziguang
+R2zh_t_i0_shuangpin_ziranma_android_token_dictionary"tokens_shuangpin_ziranma
+F'zh_t_i0_stroke_android_token_dictionary"stroke_token_dictionary
+2shortcuts_token_dictionary"shortcuts_tokenslibpinyin_data_bundle.so
